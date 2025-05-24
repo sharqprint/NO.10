@@ -1,4 +1,4 @@
-/* === Global Styles === */
+/* CSS (styles.css) */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -28,14 +28,9 @@ header {
     z-index: 10;
 }
 
-.logo {
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    padding: 10px 20px;
-    border-radius: 6px;
-    font-family: 'Cairo', sans-serif;
+.logo img {
+    height: 40px;
+    width: auto;
 }
 
 .company-name {
