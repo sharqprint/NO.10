@@ -1,4 +1,4 @@
-// Canvas background animation logic
+// JavaScript (script.js)
 const canvas = document.getElementById('bgCanvas');
 const ctx = canvas.getContext('2d');
 
